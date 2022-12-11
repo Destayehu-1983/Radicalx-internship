@@ -1,0 +1,174 @@
+.header-outerwrapper{
+    max-width: 88%; 
+    /* width: 80%;  */
+    width: 1135px;
+    height: 270px;
+   /* width1135
+   279 */
+   
+}
+.header-outerwrapper .header-wrapper{
+    background-color:#F6F5F9;
+    /* width: 178px;
+    height: 24px;
+   */
+
+}
+/* .intern-header{
+    width: 178px;
+    height: 24px;
+} */
+.header-wrapper{
+    /* width: 100%;
+    height: 100%; */
+    /* width: 85vh;
+    height: 100vh; */
+   
+    /* height: ; */
+    width: 88%;
+display: flex;
+    position: relative;
+    color: black;
+    top:-880px;
+    right:-400px;
+    justify-content: space-around;
+
+   
+}
+ .create-internbtn{
+    /* max-width: 219px; */
+    width: 200px;
+    height: 44px;
+    padding-bottom: 5px;
+    background-color: #793EF5;
+} 
+/* .addbox-icon{
+    margin-left: 30px;
+} */
+.header-p{
+    background-color: #F6F5F9;
+    width: 280px;
+    height: 238px;
+    border-radius: 16px;
+    right:-300px;
+    /* top: -600px; */
+}
+.header-btnp{
+    position: relative;
+    top:-850px;
+    right:-300px;
+    width: 1135px;
+
+    height: 270px;
+    fill:snow;
+    padding: 16px;
+
+}
+.btn-header{
+    max-width: 72%;
+    width: 72%;
+   display: flex;
+    /* width: 813px; 
+    height: 48px; */
+    position: relative;
+    top: -240px;
+    right: -300px;
+    background-color: #F2F2F2;
+
+}
+
+.header-paragraph{
+    width: 72%;
+    display: flex;
+    position: relative;
+    top: -210px;
+    right: -290px;
+
+
+} 
+.hp{
+    padding-right: 30px;
+    padding-top: 2px;
+    /* border-left: 2px #EFEFEF; */
+    border-left: 2px #9f1212;
+
+    /* border: 2px solid black; */
+
+}
+/* .paragraph{
+    width: 229px;
+    height: 120px;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.3px;
+color: #1E1E1E;
+padding-left: 16px;
+
+} */
+.internship-header{
+    width: 248px;
+    height: 24px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+    padding: 16px;
+    background-color: #F6F5F9;
+}
+.header-btnp{
+    background-color: #fff;
+   
+}
+.hundered-thousand{
+    width: 82px;
+    height: 28px;
+    font-size: 21px;
+    line-height:28px;
+    font-weight: 500px;
+    font-family: space Grotesk;
+}
+.this-week{
+    width: 91px;
+    height: 32px;
+    padding: 6px, 12px, 6px, 12px;
+    border-radius: 8px;
+    background-color: #793EF5;
+}
+.This-Month{
+    width: 100px;
+    height: 32px;
+    padding: 6px, 12px, 6px, 12px;
+    border-radius: 8px;
+    margin-left: 12px;
+    background-color: #FFFFFF;
+
+}
+.Select-dates{
+    /* width: 137px; */
+    height: 32px;
+    padding: 6px, 12px, 6px, 12px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin-left: 500px;
+
+}
+.internship-candidates{
+    background-color: #fff;
+}
+
+.internships{
+    padding-right: 800px;
+}
+.create-new{
+   align-items: center;
+
+  
+}
+/* .addbox-icon{
+    padding-top: 10px;
+} */
+/* .addbox-icon{
+    padding-top: 10px;
+    padding-right: 5px;
+} */

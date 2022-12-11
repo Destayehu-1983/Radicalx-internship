@@ -1,0 +1,145 @@
+.middlepage-wrapper{
+    width: 80%;
+}
+
+.internshiptitile-wrapper{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -800px;
+    right: -220px;
+    background-color:#F6F5F9;
+    margin-left: 80px;
+    /* padding-left: 20px; */
+
+    /* background-color: #F6F5F9; */
+}
+/* .down-square{
+    padding-right: 80px;
+} */
+
+.qualified-graph{
+    background-color: #ffffff;
+}
+.barchart{
+    width: 150px;
+    height: 80px;
+    /* padding: 8px; */
+  
+}
+
+.internship-title{
+    width: 350px;
+   
+    height: 56px;
+    background-color:#F6F5F9;
+    /* padding-bottom: 32px; */
+    /* padding: 16px,12px; */
+    white-space: nowrap;
+    padding-left: 50px;
+
+}
+.ai{
+    padding-left: 15px;
+    /* padding-right: 30px; */
+}
+.Completion-p{
+    width: 200px;
+    height: 56px;
+    /* background-color:#F6F5F9; */
+    padding-right: 110px;
+    white-space: nowrap;    
+}
+.downsquare{
+    width: 17px;
+    height: 17px;
+    padding-right: 100px;
+    /* padding-left: 100px; */
+color:#793EF5;
+}
+/* .line{
+    padding-right: 150px;
+} */
+
+.hundered-twenty{
+    width: 200px;
+    height: 96px;
+    /* padding-top: 8px; */
+    /* padding: 16px; */
+}
+.total-enrolled{
+    width: 160px;
+    height: 56px;
+    padding-right: 80px;
+    white-space: nowrap;
+
+
+}
+.qualified{
+    /* width: 250px; */
+    /* height: 56px; */
+    /* padding: 12px 16px; */
+    padding-right: 50px;
+    white-space: nowrap;
+}
+
+ .rectangle{
+    width: 6px;
+    height: 14px;
+    background-color:#C4C4C4;
+    top: 18px;
+    left: 0;
+   border-top-left-radius:40px ; 
+   border-top-right-radius: 40px;
+   /* Top right radius: 40px */
+    /* margin-left: 30px; */
+}
+
+
+.rectangle-wrapper{
+    display: flex;
+    padding-right: 20px;
+
+   /* justify-content: space-around; */
+   /* position: relative; */
+}
+.title-completionperiod{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: -780px;
+    right: -270px;
+    background-color: #ffffff;
+    padding-top: 10px;
+    
+}
+.colorpurple{
+    width: 62px;
+    height: 24px;
+    color: #793EF5;
+    background-color: #F0EFFD;
+    padding: 8px 16px;
+}
+.top{
+  margin-top: 8px;
+}
+.title-productdesign{
+    padding-top: 8px;
+}
+.title-productdesign h3{
+    width: 195px;
+    height: 24px;
+    font-weight: 500px;
+    font-size: 16px;
+    font-family: space Grotesk;
+    line-height: 24px;
+    padding-bottom: 8px;
+    /* padding: 16px; */
+   
+    /* color: #2F3031; */
+}
+.title-productdesign p{
+    width: 195px;
+    height: 32px;
+    padding-bottom: 32px;
+}

@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* span{
+    color: green;
+} */
+.Radical{
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.wrapper{
+    display: flex;
+    padding-left: 30px;
+}
+/* .dashboard{
+    padding-left: 15px;
+
+} */
+.header{
+    padding-left: 12px;
+}
+.apprenter{
+    padding-top: 5px;
+}
+.job {
+    padding-top: 5px;
+
+}
+
+/* .icon{
+    padding-top: 1rem;
+    width: 8px;
+    height: 10px;
+} */
+.nav-wrapper{
+    /* width: 15vw;
+    min-height: 100vh; */
+  
+    /* width: 229px;  */
+    width: 14%;
+     height: 950px; 
+    top: 16px;
+    left: 16px;
+  text-align: center;
+    /* padding: 34px, 20px, 34px, 20px; */
+    /* padding-left: 36px; */
+    font-family: Space Grotesk;
+    border-radius: 34px;
+    border-radius: drop shadow;
+/* outline-offset: rgba(0, 0, 0, 0.04); */
+/* box-shadow:rgba(0, 0, 0, 0.04);  */
+    /* offset: ; */
+    /* Offset: 0px, 12px */
+/* rgba(0, 0, 0, 0.04) */
+box-shadow: (0, 0, 0, 0.04);
+/* outline: 4px solid #111; */
+/* outline-offset: 0px, 12px; */
+margin-left: 30px;
+margin-top: 30px;
+
+
+    /* background-color: hsl(hue, saturation, lightness); */
+    background-color: #fff;
+    /* align-items: center; */
+}
+.radicalx{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: space Grotesk;
+    font-style: italic;
+    width: 160px;
+    height: 32;
+    padding-left: 15;
+}
+.intern-butn{
+    width: 150px;
+    height: 40px;
+    color: #793EF5;
+    border: 1px solid #793EF5;
+    background-color: rgba(123, 118, 215, 0.2);
+    /* border-inline-color:#793EF5;
+    border-inline: #793EF5; */
+}
+.Radical{
+    padding:34px;
+}
+
+span{
+    color: #793EF5;
+    width: 400px;
+    height: 16px;
+    padding-left: 10px;
+    text-align: center;
+}
+.wrapper{
+    padding-bottom: 24px;
+    /* text-align: center; */
+/* line-height: 34px; */
+    
+    
+}
+.name-account{
+    padding-top: 580px;
+}
+.nav-icons{
+    font-size: 16px;
+    font-weight: 400;
+    /* font-family: 'Outfit', sans-serif; */
+    /* font-family: Space Grotesk; */
+}
+/* icon{
+    padding-right: 12px;
+}  */
+.rectangle{
+    width: 50px;
+    height: 50px;
+    border-radius: 16px;
+}
+/* span{
+   margin-left: 50px;
+   text-align: center;
+
+} */
+.name{
+   
+    text-align: center;
+   
+    padding-top: 500px;
+}
+.desta{
+    margin-left: 60px;
+    padding-top:15px;
+}
